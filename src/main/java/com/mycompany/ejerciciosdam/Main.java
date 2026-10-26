@@ -1,3 +1,4 @@
+package com.mycompany.ejerciciosdam;
 import java.util.Scanner;
 
 public class Main 
